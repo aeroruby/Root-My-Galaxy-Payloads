@@ -1,3 +1,5 @@
+# this is a fork, if you want an up-to-date version of the non-s22 stuff go to the source repository
+
 # Root My Galaxy Payloads
 
 This repository contains the device-specific native side of
