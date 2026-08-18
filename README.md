@@ -3,7 +3,7 @@
 # Root My Galaxy Payloads
 
 This repository contains the device-specific native side of
-[Root My Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy):
+[Root My Galaxy](https://github.com/aeroruby/Root-My-Galaxy):
 
 - exact firmware profiles and offsets;
 - the app-domain CVE-2026-43499 exploit source and compiled payload;
