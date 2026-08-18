@@ -177,6 +177,20 @@
         "url": "https://raw.githubusercontent.com/BuSung-dev/Root-My-Galaxy-Payloads/main/kernelsu/ksud-e1s-S921NKSSFDZF3-kdp",
         "size": 4758872
       }
+    },
+    {
+      "payloadId": "r0q-S901U1UESAGZF3",
+      "displayName": "Galaxy S22 | Kernel 5.10.236",
+      "models": ["SM-S901U1"],
+      "kernelVersions": ["5.10.236"],
+      "exploit": {
+        "url": "https://raw.githubusercontent.com/aeroruby/Root-My-Galaxy-Payloads/main/artifacts/r0q-S901U1UESAGZF3/cve-2026-43499-app.so",
+        "size": 88936
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/aeroruby/Root-My-Galaxy-Payloads/main/kernelsu/ksud-r0q-S901U1UESAGZF3-kdp",
+        "size": 4967280
+      }
     }
   ]
 }
